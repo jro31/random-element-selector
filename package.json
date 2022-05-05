@@ -1,0 +1,24 @@
+{
+  "name": "random-element-selector",
+  "version": "1.0.0",
+  "description": "Returns one random element from the passed-in array",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jro31/random-element-selector.git"
+  },
+  "keywords": [
+    "random-element",
+    "random-array-element",
+    "random-array-element-selector",
+    "random-element-selector",
+    "random-array",
+    "random"
+  ],
+  "author": "Jethro Williams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jro31/random-element-selector/issues"
+  },
+  "homepage": "https://github.com/jro31/random-element-selector#readme"
+}
