@@ -24,3 +24,5 @@ console.log(randomElement(myArray)); // 3
 console.log(randomElement(myArray)); // 3
 console.log(randomElement(myArray)); // 'cat'
 ```
+
+Note that passing-in an argument which is _not_ an array will throw an error.
